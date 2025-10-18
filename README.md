@@ -1,4 +1,4 @@
-# Gargie Singh
+# Gargie
 
 ### 👋 Hi there!
 
