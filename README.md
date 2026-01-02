@@ -1,9 +1,6 @@
-# Gargie
+# Hello there!
 
-### 👋 Hi there!
-
-#### I'm a computer science undergrad currently exploring **_DSA_**, **_Full Stack Web Development_**, and **_Python_**. I love building hands-on projects and sharing my journey in tech!
-
+#### I am Gargie, currently building something that I ever dreamed of ;)
 
 ### 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black)
