@@ -4,7 +4,8 @@
 
 ### Full Stack Developer | Backend Enthusiast | Open Source Contributor
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/gargieesingh)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gargieesingh)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=white)](https://your-portfolio.com)
 
 </div>
@@ -65,6 +66,10 @@ I'm a passionate developer building scalable backend systems and modern web appl
 <div align="center">
   
 ### 💬 "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it"
+
+
+
+
 
 **Thanks for visiting! Feel free to reach out if you want to collaborate on something awesome.** 🚀
 
