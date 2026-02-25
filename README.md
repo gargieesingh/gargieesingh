@@ -56,9 +56,7 @@ I'm a passionate developer building scalable backend systems and modern web appl
 
 ---
 
-## 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gargieesingh&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF)](https://github.com/gargieesingh)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gargieesingh&custom_title=Contribution%20Matrix&bg_color=0D1117&color=00D9FF&line=FF006E&point=FFFFFF&area_color=FF006E&area=true&hide_border=true&radius=10)](https://github.com/gargieesingh)
 
 ---
 
