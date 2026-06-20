@@ -1,79 +1,115 @@
-<div align="center">
-  
-# 👋 Hello, I'm Gargie
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Gargie%20Singh&fontSize=70&animation=twinkling" alt="Gargie Singh profile header" />
+</p>
 
-### Full Stack Developer • Backend Enthusiast • Open Source Contributor
+<!-- Title -->
+<h3 align="center">
+    <samp>
+        &gt; Hey There!, I am
+        <b><a target="_blank" href="https://linkedin.com/in/gargieesingh">Gargie Singh</a></b>
+    </samp>
+</h3>
 
-[![Twitter](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/gargieesingh)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gargieesingh)
+<br>
 
-</div>
+<p align="center">
+<samp>
+「 Full Stack Developer building scalable backend systems and modern web applications 」
+</samp>
+</p>
 
----
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=E05397&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Backend+Enthusiast;Open+Source+Contributor;Node.js+%7C+React+%7C+PostgreSQL"
+    alt="Typing SVG"
+  />
+</p>
 
-## 🚀 About Me
-
-I'm a passionate developer building scalable backend systems and modern web applications. I love working with new technologies and contributing to open-source projects.
-
-- 📫 Reach me at **gargiesingh321@gmail.com**
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-### Frontend & Styling
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Tools & Platforms
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+  <a href="https://twitter.com/gargieesingh">
+    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter profile link">
+  </a>
+  <a href="https://linkedin.com/in/gargieesingh">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile link">
+  </a>
+  <a href="mailto:gargiesingh321@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact link">
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Statistics
+<table border="0" cellspacing="10" cellpadding="0">
+<tr>
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gargieesingh&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397)](https://git.io/streak-stats)
+<!-- LEFT: TOOLS -->
+<td width="420" valign="top" align="center">
 
-</div>
+<h3>🛠 Technologies</h3>
+<br>
+
+<table align="center" cellspacing="0" cellpadding="6">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="32"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="32"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32"/></td>
+    <td align="center"></td>
+  </tr>
+</table>
+
+</td>
 
 ---
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gargieesingh&custom_title=Contribution%20Matrix&bg_color=0D1117&color=00D9FF&line=FF006E&point=FFFFFF&area_color=FF006E&area=true&hide_border=true&radius=10)](https://github.com/gargieesingh)
+### 📊 Vital Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gargieesingh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=E05397&icon_color=E05397&title_color=E05397" alt="GitHub stats card" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gargieesingh&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=E05397&fire=E05397&currStreakLabel=E05397" alt="GitHub streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gargieesingh&custom_title=Contribution%20Matrix&bg_color=0D1117&color=00D9FF&line=FF006E&point=FFFFFF&area_color=FF006E&area=true&hide_border=true&radius=10" alt="Contribution activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gargieesingh&label=PROFILE%20VIEWS&color=E05397&style=flat-square" alt="Profile views counter" />
+</p>
 
 ---
 
-<div align="center">
-  
-### 💬 "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it"
+<p align="center">
+⚡ Building scalable backend systems and modern web applications
+</p>
+<p align="center">
+Star ⭐ the repos if they helped you!
+</p>
 
-
-
-
-
-**Thanks for visiting! Feel free to reach out if you want to collaborate on something awesome.** 🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=gargieesingh&color=e05397&style=flat-square&label=Profile+Views)
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
+</p>
