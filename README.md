@@ -46,14 +46,41 @@
 ---
 
 ## 📚 Projects
-
-| Repository | Link | Description |
-| ---------- | ---- | ------------ |
-| [DrawLo](https://github.com/gargieesingh/DrawLo-frontend) | [Website](https://drawlo.fun) | Real-time collaborative drawing app |
-| [GitSaga](https://github.com/gargieesingh/gitsaga-backend) | [Website](https://gitsaga.bar) | Backend service powering GitSaga |
-| MatesVilla | [Website](https://matesvilla.com) | Freelance project |
-| [Multi-Tenant System](https://github.com/gargieesingh/multi-tenant-system) | [GitHub](https://github.com/gargieesingh/multi-tenant-system) | Multi-tenant architecture implementation |
-| [Signaling Server in Go](https://github.com/gargieesingh/Signaling-Server-in-Go) | [GitHub](https://github.com/gargieesingh/Signaling-Server-in-Go) | WebRTC signaling server built in Go |
+ 
+<div align="center">
+<table>
+  <tr>
+    <th>Repository</th>
+    <th>Link</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/gargieesingh/DrawLo-frontend">DrawLo</a></td>
+    <td><a href="https://drawlo.fun">Website</a></td>
+    <td>Real-time collaborative drawing app</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/gargieesingh/gitsaga-backend">GitSaga</a></td>
+    <td><a href="https://gitsaga.bar">Website</a></td>
+    <td>Backend service powering GitSaga</td>
+  </tr>
+  <tr>
+    <td>MatesVilla</td>
+    <td><a href="https://matesvilla.com">Website</a></td>
+    <td>Freelance project</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/gargieesingh/multi-tenant-system">Multi-Tenant System</a></td>
+    <td><a href="https://github.com/gargieesingh/multi-tenant-system">GitHub</a></td>
+    <td>Multi-tenant architecture implementation</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/gargieesingh/Signaling-Server-in-Go">Signaling Server in Go</a></td>
+    <td><a href="https://github.com/gargieesingh/Signaling-Server-in-Go">GitHub</a></td>
+    <td>WebRTC signaling server built in Go</td>
+  </tr>
+</table>
+</div>
 
 ---
 
