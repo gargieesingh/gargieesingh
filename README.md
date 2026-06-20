@@ -32,6 +32,12 @@
   <a href="https://linkedin.com/in/gargieesingh">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile link">
   </a>
+  <a href="https://reddit.com/user/gargieesingh">
+    <img src="https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit profile link">
+  </a>
+  <a href="https://discord.com/users/gracyy_01">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord username">
+  </a>
   <a href="mailto:gargiesingh321@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact link">
   </a>
@@ -39,13 +45,7 @@
 
 ---
 
-<table border="0" cellspacing="10" cellpadding="0">
-<tr>
-
-<!-- LEFT: TOOLS -->
-<td width="420" valign="top" align="center">
-
-<h3>🛠 Technologies</h3>
+<h3 align="center">🛠 Technologies</h3>
 <br>
 
 <table align="center" cellspacing="0" cellpadding="6">
@@ -79,8 +79,6 @@
   </tr>
 </table>
 
-</td>
-
 ---
 
 ### 📊 Vital Statistics
@@ -102,13 +100,6 @@
 </p>
 
 ---
-
-<p align="center">
-⚡ Building scalable backend systems and modern web applications
-</p>
-<p align="center">
-Star ⭐ the repos if they helped you!
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
