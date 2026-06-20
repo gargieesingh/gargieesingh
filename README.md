@@ -14,13 +14,13 @@
 
 <p align="center">
 <samp>
-「 Full Stack Developer building scalable backend systems and modern web applications 」
+「 Full Stack AI Developer building scalable backend systems and modern web applications 」
 </samp>
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=E05397&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Backend+Enthusiast;Open+Source+Contributor;Node.js+%7C+React+%7C+PostgreSQL"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=E05397&center=true&vCenter=true&width=900&lines=Full+Stack+AI+Developer;System+Design+Geek;Open+Source+Contributor"
     alt="Typing SVG"
   />
 </p>
