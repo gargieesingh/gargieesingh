@@ -45,7 +45,7 @@
 
 ---
 
-<h3 align="center">🛠 Technologies</h3>
+### 📊 Technologies I use
 <br>
 
 <table align="center" cellspacing="0" cellpadding="6">
@@ -81,7 +81,7 @@
 
 ---
 
-### 📊 Vital Statistics
+### 📊 Github Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gargieesingh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=E05397&icon_color=E05397&title_color=E05397" alt="GitHub stats card" />
@@ -102,11 +102,11 @@
 ---
 
 <p align="center">
-  <a href="#top">
-    <img src="https://img.shields.io/badge/Back%20to%20the%20Top-2d2d2d?style=for-the-badge&logo=github&logoColor=white" alt="Back to the Top"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Back%20to%20the%20Top-2d2d2d?style=for-the-badge&logo=github&logoColor=white" alt="Back to the Top"/>
+  </a>
 </p>
